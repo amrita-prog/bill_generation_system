@@ -1,0 +1,116 @@
+.box{
+    height: 710px;
+    width: 100%;
+    border: solid 2px black;
+}
+.product{
+    height: 450px;
+    width: 450px;
+    /* border: solid 4px ; */
+    margin-top: 50px;
+    margin-left: 200px;
+    background-size: cover;
+}
+.prod_name{
+    font-size: 38px;
+    /* margin-left: 730px;
+    margin-top: -450px; */
+}
+.rating{
+    /* margin-left: 70px; */
+    margin-top: 3px;
+    height: 30px;
+
+}
+.checked{
+    color: orange;
+}
+.price{
+    /* margin-left: 740px; */
+    margin-top: 50px;
+    font-size: 27px;
+}
+.gst{
+    margin-top: -24px;
+    font-size: 16px;
+    margin-left: 90px;
+    color: rgb(77, 36, 172);
+}
+button{
+    height: 50px;
+    width: 70px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: solid 2px black;
+    margin: 5px;
+    background-color: #C68E17;
+    /* margin-left: 100px; */
+}
+.right_box{
+    height:600px ;
+    width: 450px;
+    /* border: solid 4px white; */
+    margin-left:720px ;
+    margin-top: -565px;
+    
+}
+.weight{
+    margin-top: 45px;
+    font-size: 20px;
+    font-family:  Arial;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.message{
+    margin-top: 25px;
+    font-size: 20px;
+    font-family:  Arial;
+    margin-bottom: 8px;
+    margin-left: 5px;
+}
+.input_message{
+    height: 55px;
+    border: solid 2px black;
+    width: 430px;
+    margin-left: 5px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+.cart{
+    height: 50px;
+    width: 213px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: solid 2px black;
+    margin: 2px;
+    margin-left: 5px;
+    margin-top: 40px;
+    background-color: #C68E17;
+}
+.buy{
+    height: 50px;
+    width: 213px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: solid 2px black;
+    margin: 5px;
+    background-color: #C68E17;
+}
+.down_box{
+    height: 100px;
+    width: 450px;
+   
+    margin-left: 200px;
+    margin-top: 20px;
+   
+}
+.description{
+    font-size:19px ;
+    margin-top: 18px;
+    margin-left: 10px;
+}
+.churan{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 17px;
+}
